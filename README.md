@@ -2,11 +2,11 @@
 
 #### HTML Indentation and Spacing Exercise for Epicodus, 01.06.2020
 
-#### By **Adela Darmansyah**
+#### By **Adela Darmansyah, Neha Doodi**
 
 ## Description
 
-This recipe blog helps the programmer practice creating a **clean** code.
+This recipe blog helps the programmer practice creating a **clean** code. It practiced tags, indentation, spacing, images, links, and font styling (bold, italics).
 
 ## Setup/Installation Requirements
 
@@ -32,5 +32,6 @@ Markdown
 
 ### License
 
-Copyright (c) 2020 **Adela Darmansyah**
+Copyright (c) 2020 **Adela Darmansyah, Neha Doodi**.
+
 This blog is licensed under the Epicodus license.
